@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=COSMIC Wallpaper Manager
+Comment=Gerenciador de Papel de Parede Estático e Animado para COSMIC
+Exec=cosmic-wallpaper-gui
+Icon=preferences-desktop-wallpaper
+Categories=Utility;GTK;
