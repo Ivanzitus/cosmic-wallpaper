@@ -43,7 +43,7 @@ flatpak-builder --user --install build-dir com.github.cosmic_wallpaper_manager.y
 ### Executando
 
 ```bash
-flatpak run com.github.cosmic_wallpaper_manager
+flatpak run com.github.cosmic_wallpaper
 ```
 
 ## 📄 Licença
